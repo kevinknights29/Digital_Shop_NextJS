@@ -1,4 +1,4 @@
-import formidable from 'formidable';
+const formidable = require('formidable');
 
 export const config = {
     api: {
